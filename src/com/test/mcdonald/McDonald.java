@@ -6,8 +6,12 @@ public class McDonald {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
+	
+	public enum Menu {
+		HAMBURGER, CHEESEBURGER, MACCHICKEN, CHIPPED_POTATO, ICECREAM;  //; our dishes
+		}
 
 }
